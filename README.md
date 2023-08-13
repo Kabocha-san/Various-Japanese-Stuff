@@ -29,6 +29,7 @@ Using the Dolphin android browser (because it supports chrome add-ons) instead b
 The best solution I have for this is to use [KDE connect](https://kdeconnect.kde.org/) to automatically get the phone's clipboard and send in to the PC, where yomichan will detect the clipboard change and open the pop-up as usually. You will need to have your PC on (obviously) and on on the same wifi network as your phone and connection between devices on the network has to be allowed.
 
 From Android 10+ root is required for this to work and something like this riru/xposed module: [Riru-ClipboardWhitelist](https://github.com/Kr328/Riru-ClipboardWhitelist) 
+
 Though from my own experience this breaks again for many android 13 ROMs (even with root).
 
 # Encoding woes

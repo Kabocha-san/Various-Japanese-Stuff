@@ -68,4 +68,4 @@ For software where one can specify the font to display stuff that does this usin
 
 If one can tell the software what language is use (as in Anki note templates) one should do that instead, otherwise I will write up what solutions I happen to come across when encountering problems.
 
-For example as I was going through Japanese books about Blender (on Ubuntu) I set the UI interface to Japanese, but the characters where displayed wrong so I went to 編集>プリファレンス>テキストレンダリング to instead use Noto Sans Japanese fonts. (If you happen to need this specific instructions: Do not forget to save your configuration changes you have to click the Hamburger menu in the left corner.)
+For example as I was going through Japanese books about Blender (on Ubuntu) I set the UI to Japanese, but the characters where displayed wrong so I went to 編集>プリファレンス>テキストレンダリング to instead use Noto Sans Japanese fonts. (If you happen to need this specific instructions: Do not forget to save your configuration changes you have to click the Hamburger menu in the left corner.)

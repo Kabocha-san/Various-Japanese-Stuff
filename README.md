@@ -47,7 +47,7 @@ For non-unicode encodings this becomes much more cumbersome.
 ### Windows
 Turn on support for Non-Unicode software and or switch it to Japanese otherwise use locale emulator.
 
-### Wine or Proton
+### Wine, Proton, Lutris
 First install fake Japanese (maybe also corefonts when you already busy installing fonts in your prefix) via winetricks or protontricks.
 Please not that if you have not installed fake Japanese and or do not start the installation without setting the environmental variable as bellow the installer will often produce broken installations (like mojibake folder and filenames) or fail to complete altogether. In that case delete your prefix and start again.
 
@@ -55,7 +55,7 @@ Start software like so via the terminal:
 ```
 LANG=ja_JP.UTF-8 wine example.exe
 ```
-Not that even though Lutris does support setting environmental variables per prefix this often still does not work in my personal experience and you may have to start Lutris via terminal after setting it yourself.
+Note that even though Lutris does support setting environmental variables per prefix this often still does not work in my personal experience and you may have to start Lutris via terminal after setting it yourself (obviously in the same terminal window).
 
 ## Make Japanese character variants appear instead of Chinese variants
 And for Japanese, especially when not setting the whole system of a device to Japanese this very often results in characters getting displayed wrong meaning simplified Chinese characters have the same unicode mapping as Japanese characters and if not the whole system is set to Japanese one has to content often with seeing simplified Chinese characters instead. 

@@ -17,6 +17,7 @@ I am putting this together for future me and anyone else, who might find this us
 # Studying
 
 Again this is not general advice on how to learn the language, these are things that I have come accross myself I happen to find useful.
+If general advice on advice on how to learn Japanese is something you need, you will likely not find it here but this post from [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/) is often good point to start.
 
 ## Fast word look ups for non PC-games or printed media (and fast anki card creation)
 I still own a lot of printed manga or books (or VNs I have as switch games), this is what I do to make look ups easier here.
@@ -26,7 +27,8 @@ And using my laptop for this cases has brought me personally much relief in that
 Using the Dolphin android browser (because it supports chrome add-ons) instead because of lack of functioning clipboard monitor is already too much and does not work for me.
 
 The best solution I have for this is to use [KDE connect](https://kdeconnect.kde.org/) to automatically get the phone's clipboard and send in to the PC, where yomichan will detect the clipboard change and open the pop-up as usually. You will need to have your PC on (obviously) and on on the same wifi network as your phone and connection between devices on the network has to be allowed.
-From Android 10+ root is required for this to work and a something like this riru/xposed module: [Riru-ClipboardWhitelist](https://github.com/Kr328/Riru-ClipboardWhitelist) 
+
+From Android 10+ root is required for this to work and something like this riru/xposed module: [Riru-ClipboardWhitelist](https://github.com/Kr328/Riru-ClipboardWhitelist) 
 Though from my own experience this breaks again for many android 13 ROMs (even with root).
 
 # Encoding woes

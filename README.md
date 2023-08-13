@@ -41,7 +41,9 @@ For most operating systems the first step to solve any of the following problems
 
 ## Mojibake
 
-As in the encoding is either not recognized automatically (text editor or browsers, try changing it to Unicode then Shift JIS).
+As in you see garbled text instead of Japanese characters.
+
+In case of text editors or browsers, try changing it to Unicode then Shift JIS.
 
 For non-unicode encodings this becomes much more cumbersome.
 

@@ -21,7 +21,7 @@ If general advice on advice on how to learn Japanese is something you need, you 
 
 ## Fast word look ups for non PC-games or printed media (and fast anki card creation)
 I still own a lot of printed manga or books (or VNs I have as switch games), this is what I do to make look ups easier here.
-Using Google lense to get the actucal text is a no-brainer, but unfortunately because of a disability I have a very high repetive strain injury, so I need things to be as effortless and fast as possible and except for the fact I am often busy with other things and also code, I still read a lot and the pain thus normally adds up quickly when looking up words. 
+Using Google lense to get the actucal text is a no-brainer, but unfortunately because of a disability I have a very high risk of getting repetive strain injuries, so I need things to be as effortless and fast as possible and except for the fact I am often busy with other things and also code, I still read a lot and the pain thus normally adds up quickly when looking up words. 
 
 And using my laptop for this cases has brought me personally much relief in that regard.
 Using the Dolphin android browser (because it supports chrome add-ons) instead because of lack of functioning clipboard monitor is already too much and does not work for me.

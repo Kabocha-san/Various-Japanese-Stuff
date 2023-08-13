@@ -52,7 +52,7 @@ Turn on support for Non-Unicode software and or switch it to Japanese otherwise 
 
 ### Wine, Proton, Lutris
 First install fake Japanese (maybe also corefonts when you already busy installing fonts in your prefix) via winetricks or protontricks.
-Please not that if you have not installed fake Japanese and or do not start the installation without setting the environmental variable as bellow the installer will often produce broken installations (like mojibake folder and filenames) or fail to complete altogether. In that case delete your prefix and start again.
+Please not that if you have not installed fake Japanese and or do not first set the environmental variable as bellow the installer will often produce broken installations (like mojibake folder and filenames) or fail to complete altogether. In that case delete your prefix and start again.
 
 Start software like so via the terminal: 
 ```
